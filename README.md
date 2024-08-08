@@ -6,9 +6,5 @@ asgasgsasa
 rtyertyreyr
 eryweyweywe
 12341412214
-
-<<<<<<< HEAD
 5515215
-=======
 53452523532
->>>>>>> master
