@@ -3,10 +3,7 @@ This file is pulled from git hub
 12512512521
 gasgsagsag
 rtuerurueruer
-<<<<<<< HEAD
 yweyweyewryew
-=======
 124124214214
->>>>>>> master
-
+251525125125
 34523535235
